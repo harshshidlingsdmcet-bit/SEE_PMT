@@ -1,0 +1,10 @@
+//This css is for H1 tag
+h1{
+  color:blue;
+  background-color:green;
+}
+
+//This css is for input tag
+input{
+  color:green;
+}
